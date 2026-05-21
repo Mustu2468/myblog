@@ -1,0 +1,10 @@
+{
+  "name": "notes-from-nowhere",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "hugo --minify"
+  },
+  "devDependencies": {
+    "hugo-bin": "^0.149.0"
+  }
+}
