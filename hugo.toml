@@ -8,6 +8,7 @@ theme = "PaperMod"
   ShowReadingTime = true
   ShowPostNavLinks = true
   description = "thoughts that didn't ask permission"
+  comments = true
 
   [params.homeInfoParams]
     Title = "Notes from Nowhere"
