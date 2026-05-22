@@ -1,15 +1,15 @@
 baseURL = "https://notesfromnowhere.netlify.app/"
 languageCode = "en-us"
-title = "Notes from Nowhere"
+title = "TrashCan"
 theme = "PaperMod"
 
 [params]
   defaultTheme = "dark"
   ShowReadingTime = true
   ShowPostNavLinks = true
-  description = "thoughts that didn't ask permission"
+  description = "'cause i've got thoughts on everything."
   comments = true
 
   [params.homeInfoParams]
-    Title = "Notes from Nowhere"
-    Content = "anonymous. unfiltered. probably 3am."
+    Title = "TrashCan"
+    Content = "'cause i've got thoughts on everything."
