@@ -1,4 +1,4 @@
-baseURL = "https://notesfromnowhere.netlify.app/"
+baseURL = "https://mytrashcan.netlify.app/"
 languageCode = "en-us"
 title = "TrashCan"
 theme = "PaperMod"
