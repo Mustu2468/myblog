@@ -9,6 +9,7 @@ theme = "PaperMod"
   ShowPostNavLinks = true
   description = "'cause i've got thoughts on everything."
   comments = true
+  googleSiteVerify = "XYephQBaAe6NTf-e15AbZmrnRNf47Udd8JNerJh0i8Q"
 
   [params.homeInfoParams]
     Title = "TrashCan"
