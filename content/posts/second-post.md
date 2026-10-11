@@ -4,8 +4,10 @@ date = 2026-10-11
 draft = false
 +++
 
-![](/images/img1.png)
-![](/images/img2.png)
+<div style="display: flex; gap: 1rem;">
+  <img src="/images/img1.png" style="width: 50%;">
+  <img src="/images/img2.png" style="width: 50%;">
+</div>
 
 While I was having my evening cup of tea, my mother reminisced about her late father (my maternal grandfather). How he always used to carry his jute bag whenever he went to his shop and while coming back as well, how it became an integral part of his identity in our image of him, how it contained the essentials and the pouch, which again treasured the keys to his shop, which ultimately was the cornerstone of his heart. It begged me to ponder my observations of all the times I have noticed the bag being used by the different, beautiful people around me, who have inherently been part of the surroundings that have shaped me without my acknowledgement.
 
