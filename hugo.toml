@@ -13,7 +13,7 @@ theme = "PaperMod"
 
   [params.homeInfoParams]
     Title = "TrashCan"
-    Content = "'cause i've got thoughts on everything."
+    Content = "'cause I've got thoughts on everything."
 
 [markup.goldmark.renderer]
   unsafe = true
