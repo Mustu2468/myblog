@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,600;1,400&family=Inter:wght@300;400;500&display=swap');
+
+:root {
+  --accent: #e8935a;
+  --accent-secondary: #5a8ae8;
+  --bg: #0e0e12;
+  --surface: #13131a;
+  --text: #c9c9d4;
+  --muted: #6b6b7e;
+  --border: #1e1e2a;
+}
+
+body {
+  background-color: var(--bg);
+  font-family: 'Inter', sans-serif;
+  font-weight: 300;
+  color: var(--text);
+}
+
+h1, h2, h3, .post-title, .entry-header h1 {
+  font-family: 'Lora', serif;
+  font-weight: 600;
+  color: #e8e8f0;
+}
+
+.home-info h1 {
+  font-family: 'Lora', serif;
+  font-size: 2.2rem;
+  color: #e8e8f0;
+}
+
+.home-info .entry-content p {
+  color: var(--muted);
+  font-style: italic;
+  font-family: 'Lora', serif;
+}
+
+a {
+  color: var(--accent);
+}
+
+a:hover {
+  color: var(--accent-secondary);
+}
+
+.post-entry {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  transition: border-color 0.2s ease;
+}
+
+.post-entry:hover {
+  border-color: var(--accent);
+}
+
+.post-meta, .entry-footer {
+  color: var(--muted);
+  font-size: 0.8rem;
+}
+
+.entry-content {
+  font-size: 1.05rem;
+  line-height: 1.85;
+  color: var(--text);
+}
+
+.header {
+  border-bottom: 1px solid var(--border);
+  background: var(--bg);
+}
+
+.logo a {
+  font-family: 'Lora', serif;
+  font-size: 1.3rem;
+  color: #e8e8f0;
+}
+
+hr {
+  border-color: var(--border);
+}
+
+.footer {
+  color: var(--muted);
+  border-top: 1px solid var(--border);
+  font-size: 0.8rem;
+}
