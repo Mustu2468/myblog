@@ -1,6 +1,6 @@
 +++
 title = 'The Butterfly and the Bus'
-date = 2026-10-13
+date = 2026-10-15
 draft = false
 +++
 
