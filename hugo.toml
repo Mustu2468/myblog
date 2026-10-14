@@ -17,3 +17,4 @@ theme = "PaperMod"
 
 [markup.goldmark.renderer]
   unsafe = true
+timeZone = "Asia/Kolkata"
