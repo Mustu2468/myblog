@@ -1,7 +1,7 @@
 +++
 title = 'The Butterfly and the Bus'
 date = 2026-10-14T23:01:14Z
-draft = true
+draft = false
 +++
 
 Heading back home on the bustling public bus, whose sudden shocks you can feel when a speedbreaker or a pothole on the road is encountered every time, whose exterior is marked with the scars of the heavy battle it has fought (to be driven) throughout its existence, I saw a butterfly abruptly being swept inside by the gust of wind through one of the many open windows of the bus. From the vague looks of it, it seemed like the “*Common Tiger*”, who mistakenly entered the “Common bus” (Not so much of a Tiger after all, eh!).
