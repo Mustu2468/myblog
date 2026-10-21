@@ -1,4 +1,4 @@
-baseURL = "https://myblog-9eg.pages.dev/"
+baseURL = "https://mytrashcan.netlify.app/"
 languageCode = "en-us"
 title = "TrashCan"
 theme = "PaperMod"
